@@ -1,6 +1,6 @@
 clc
-ancho = 500;
-alto = 300;
+ancho = 950;
+alto = 440;
 
  %linea blanca vertical
   background_color = [0, 0, 150];
